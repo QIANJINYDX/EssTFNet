@@ -17,7 +17,7 @@ A novel deep learning framework that integrates **temporal-frequency signal proc
 ```
 git clone https://github.com/yourusername/EssTFNet.git
 cd EssTFNet
-conda create -n EssTFNet python=3.10
+conda create -n EssTFNet python=3.11
 conda activate EssTFNet
 pip install -r requirements.txt
 ```
@@ -81,4 +81,5 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 

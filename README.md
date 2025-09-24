@@ -1,6 +1,7 @@
 # **EssTFNet: Temporal-Frequency Deep Learning Integrated with DNA Large Language Models for Human Essential Gene Prediction** 
 
-![Fig3](https://github.com/user-attachments/assets/748f61d0-1bdb-4325-a67c-fbebc1545d2b)
+<img width="4803" height="2883" alt="人类重要基因预测-第 18 页" src="https://github.com/user-attachments/assets/8947e2c0-fa84-438b-8e2a-aa5b5c7c11d3" />
+
 
 A novel deep learning framework that integrates **temporal-frequency signal processing** with **DNA-specific large language models** to predict human essential genes from genomic sequences.
 
@@ -81,5 +82,6 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 
 

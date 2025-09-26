@@ -11,6 +11,20 @@ A novel deep learning framework that integrates **temporal-frequency signal proc
 - **DNA-Specific Embeddings**: Utilizes pre-trained DNA-LLM (e.g., Nucleotide Transformer) for biological sequence representation
 - **Interpretability**: Base Sequence Extraction of Different Lengths Using DeepLift Combined with Low-Pass Filtering
 
+## 🌐 Online Platform
+
+**Experience EssTFNet without installation!** We provide a fully-featured web server for easy prediction and analysis:
+
+🔗 **Access our web platform:** https://esstfnet.vip.cpolar.top/
+
+*   **User-friendly interface**: No coding skills required
+*   **Real-time prediction**: Get results instantly through our web interface
+*   **Interactive visualization**: Explore predictions with built-in analysis tools
+*   **Batch processing**: Support for multiple sequence analysis
+
+*Perfect for experimental biologists and researchers who want to quickly test EssTFNet without setting up the computational environment.*
+
+
 ## 🚀 Quick Start
 
 **Installation**
@@ -82,6 +96,7 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 
 
 

@@ -24,6 +24,7 @@ A novel deep learning framework that integrates **temporal-frequency signal proc
 
 *Perfect for experimental biologists and researchers who want to quickly test EssTFNet without setting up the computational environment.*
 
+Note:​​ If you encounter any connection issues due to network fluctuations, please wait a moment and try again. We appreciate your understanding.
 
 ## 🚀 Quick Start
 
@@ -96,6 +97,7 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 
 
 

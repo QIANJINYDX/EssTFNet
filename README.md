@@ -1,6 +1,17 @@
-# **EssTFNet: Temporal-Frequency Deep Learning Integrated with DNA Large Language Models for Human Essential Gene Prediction** 
-
+<table align="center">
+  <tr>
+    <td width="96" align="center" valign="middle">
+      <img width="64" height="64" alt="esstfnet" src="https://github.com/user-attachments/assets/023d562c-6bb1-40f1-b366-210cd42e53a3" />
+    </td>
+    <td align="center" valign="middle">
+      <h3>
+        EssTFNet: Temporal-Frequency Deep Learning Integrated with DNA Large Language Models for Human Essential Gene Prediction
+      </h3>
+    </td>
+  </tr>
+</table>
 <img width="4803" height="2883" alt="人类重要基因预测-第 18 页" src="https://github.com/user-attachments/assets/8947e2c0-fa84-438b-8e2a-aa5b5c7c11d3" />
+
 
 
 A novel deep learning framework that integrates **temporal-frequency signal processing** with **DNA-specific large language models** to predict human essential genes from genomic sequences.
@@ -15,7 +26,7 @@ A novel deep learning framework that integrates **temporal-frequency signal proc
 
 **Experience EssTFNet without installation!** We provide a fully-featured web server for easy prediction and analysis:
 
-🔗 **Access our web platform:** https://esstfnet.vip.cpolar.top/
+🔗 **Access our web platform:** http://esstfnet.art/
 
 *   **User-friendly interface**: No coding skills required
 *   **Real-time prediction**: Get results instantly through our web interface
@@ -97,6 +108,7 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 
 
 

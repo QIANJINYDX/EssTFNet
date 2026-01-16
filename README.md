@@ -5,7 +5,7 @@
     </td>
     <td align="center" valign="middle">
       <h3>
-        EssTFNet: Temporal-Frequency Deep Learning Integrated with DNA Large Language Models for Human Essential Gene Prediction
+        EssTFNet: Integration of Adaptive Time–Frequency and DNA Language Models for Interpretable Human Essential Gene Prediction
       </h3>
     </td>
   </tr>
@@ -108,6 +108,7 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 
 
 

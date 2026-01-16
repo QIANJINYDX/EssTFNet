@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-<img width="4803" height="2883" alt="人类重要基因预测-第 18 页" src="https://github.com/user-attachments/assets/8947e2c0-fa84-438b-8e2a-aa5b5c7c11d3" />
+<img width="6680" height="4776" alt="人类重要基因预测-第 18 页 的副本" src="https://github.com/user-attachments/assets/3ef1f96b-70d0-4e0a-95f2-a9fe63e0f331" />
 
 
 
@@ -108,6 +108,7 @@ python main_single.py \
     --save_path "saved_model/S4/pretraining" \
     --us_protein True
 ```
+
 
 
 
